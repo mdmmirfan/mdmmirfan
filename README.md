@@ -27,5 +27,5 @@ Currently doing my master's in Human-Centered Data Science. I really enjoy build
 
 
 ### 📫 Let's Connect
-* [LinkedIn](your-linkedin-link)
-* [TikTok / Instagram](your-links)
+* [LinkedIn](your-linkedin-link)](https://www.linkedin.com/in/mdmmirfan/)
+* [Instagram](https://www.instagram.com/thehamaguri/)
