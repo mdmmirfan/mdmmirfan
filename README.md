@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Currently doing my master's in Human-Centered Data Science. I really enjoy building.
 
-### 🚀 What I'm building this Summer 2026
+### 🚀 Personal Projects | Summer 2026
 * **Project Blankspace:** Ads are annoying when doomscrolling or bingewatching, what if there is a platform only for ads. People can swipe through ads like TikTok or Tinder and choose to explore products. Influencers, brands can other affiliated links can be housed here.
 * **Project Pulse:** An unsupervised learning model analyzing raw sonic textures and instrumental complexity using spectrograms and MFCCs. I don't like the current song recommendations (Spotify DJ), so I am curious to learn about my own preferences.
 
