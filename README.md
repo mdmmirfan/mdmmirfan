@@ -21,7 +21,7 @@ Currently doing my master's in Human-Centered Data Science. I really enjoy build
 * **Project Pulse:** An unsupervised learning model analyzing raw sonic textures and instrumental complexity using spectrograms and MFCCs. I don't like the current song recommendations (Spotify DJ), so I am curious to learn about my own preferences.
 
 ### 🛠️ Tech Stack & Tools
-* **Data & ML:** Python, SQL, Unsupervised/Supervised Learning, Audio Data Science
+* **Data & ML:** Python, SQL, Unsupervised/Supervised Learning
 * **Product & Design:** UX Research, Wireframing, Dashboards & Data Visualization
 * **Development:** Swift, iOS Prototyping
 
